@@ -1,0 +1,5 @@
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\EmailClass\bin\Debug\EmailClass.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\EmailClass\bin\Debug\EmailClass.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\EmailClass\obj\Debug\EmailClass.csprojResolveAssemblyReference.cache
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\EmailClass\obj\Debug\EmailClass.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\EmailClass\obj\Debug\EmailClass.pdb

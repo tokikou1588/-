@@ -1,0 +1,14 @@
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\bin\Debug\DAL.dll
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\bin\Debug\DAL.pdb
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\bin\Debug\MODEL.dll
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\bin\Debug\MODEL.pdb
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\obj\Debug\DAL.dll
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\DAL\obj\Debug\DAL.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\bin\Debug\DAL.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\bin\Debug\DAL.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\bin\Debug\MODEL.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\bin\Debug\MODEL.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\obj\Debug\DAL.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\DAL\obj\Debug\DAL.pdb

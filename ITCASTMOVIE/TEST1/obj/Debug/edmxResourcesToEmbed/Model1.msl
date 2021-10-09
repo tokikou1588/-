@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ITCASTMOVIEModelStoreContainer" CdmEntityContainer="ITCASTMOVIEEntities">
+    <EntitySetMapping Name="Actor">
+      <EntityTypeMapping TypeName="ITCASTMOVIEModel.Actor">
+        <MappingFragment StoreEntitySet="Actor">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="IsDel" ColumnName="IsDel" />
+          <ScalarProperty Name="Lv" ColumnName="Lv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

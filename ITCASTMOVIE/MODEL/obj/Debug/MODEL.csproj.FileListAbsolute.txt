@@ -1,0 +1,10 @@
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\MODEL\bin\Debug\MODEL.dll
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\MODEL\bin\Debug\MODEL.pdb
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\MODEL\obj\Debug\MODEL.dll
+c:\Users\NeeKin\documents\visual studio 2013\Projects\TEST1\MODEL\obj\Debug\MODEL.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\MODEL\bin\Debug\MODEL.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\MODEL\bin\Debug\MODEL.pdb
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\MODEL\obj\Debug\MODEL.dll
+C:\Users\NeeKin\Documents\Visual Studio 2013\Projects\ITCASTMOVIE\MODEL\obj\Debug\MODEL.pdb
