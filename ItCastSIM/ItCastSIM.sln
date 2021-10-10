@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItCastSIM", "ItCastSIM\ItCastSIM.csproj", "{A602A406-7553-4D53-9963-0F379787CA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{6B50981C-F5DA-4ACA-A30B-6DA294A938A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B2074DCA-9C5A-4DB4-A5C5-D5DBAA8FC5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODEL", "MODEL\MODEL.csproj", "{E764DDE9-0CD2-40C1-9FE0-33975F28BDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A602A406-7553-4D53-9963-0F379787CA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A602A406-7553-4D53-9963-0F379787CA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A602A406-7553-4D53-9963-0F379787CA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A602A406-7553-4D53-9963-0F379787CA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B50981C-F5DA-4ACA-A30B-6DA294A938A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B50981C-F5DA-4ACA-A30B-6DA294A938A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B50981C-F5DA-4ACA-A30B-6DA294A938A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B50981C-F5DA-4ACA-A30B-6DA294A938A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2074DCA-9C5A-4DB4-A5C5-D5DBAA8FC5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2074DCA-9C5A-4DB4-A5C5-D5DBAA8FC5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2074DCA-9C5A-4DB4-A5C5-D5DBAA8FC5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2074DCA-9C5A-4DB4-A5C5-D5DBAA8FC5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E764DDE9-0CD2-40C1-9FE0-33975F28BDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E764DDE9-0CD2-40C1-9FE0-33975F28BDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E764DDE9-0CD2-40C1-9FE0-33975F28BDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E764DDE9-0CD2-40C1-9FE0-33975F28BDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

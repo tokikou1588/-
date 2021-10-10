@@ -1,0 +1,17 @@
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\MODEL\obj\Debug\MODEL.pdb

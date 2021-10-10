@@ -1,0 +1,231 @@
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Form1.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-15 SQL 进阶(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-17 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-18 三层架构(2)\案例\ItCastSIM\ItCastSIM\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.DDF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HPSF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HSSF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.POIFS.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.Util.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.DDF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HPSF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HSSF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.POIFS.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-20 三层架构(3)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.Util.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.DDF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HPSF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HSSF.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.POIFS.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.Util.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.DDF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HPSF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.HSSF.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.POIFS.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\NPOI.Util.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\ChnCharInfo.xml
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\八期.net加强+sql server增加\2013-9-21 三层架构(4)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\九期 .net加强+sql server增加\2013-10-26 三层架构(1)\案例\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-11-30 sql进阶(3)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-1 三层架构(1)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3  三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe.config
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.exe
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\ItCastSIM.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.dll
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\BLL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\MODEL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\bin\Debug\DAL.pdb
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csprojResolveAssemblyReference.cache
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmAreas.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmFeedBack.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmLogin.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmClasses.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmMain.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.FrmPerson.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.Properties.Resources.resources
+D:\Classes\十期.net加强+sql server加强\2013-12-3 三层架构(2)\案例\ItCastSIM\ItCastSIM\ItCastSIM\obj\Debug\ItCastSIM.csproj.GenerateResource.Cache
