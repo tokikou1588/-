@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myFirstHander", "myFirstHander\myFirstHander.csproj", "{24EA974D-E197-4C58-A0C0-EF9CEACD43F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 知识点", "01 知识点", "{7E7B4989-6AF4-4CE4-BD3F-437DB8CFA2FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 小练习", "02 小练习", "{7693F640-E0D9-4542-953A-EEAF46C83962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB.Site", "PB.Site\PB.Site.csproj", "{06DA519C-919D-42FA-81C0-CDD71BB576F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB.Common", "PB.Common\PB.Common.csproj", "{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EA974D-E197-4C58-A0C0-EF9CEACD43F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EA974D-E197-4C58-A0C0-EF9CEACD43F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EA974D-E197-4C58-A0C0-EF9CEACD43F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EA974D-E197-4C58-A0C0-EF9CEACD43F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DA519C-919D-42FA-81C0-CDD71BB576F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DA519C-919D-42FA-81C0-CDD71BB576F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DA519C-919D-42FA-81C0-CDD71BB576F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DA519C-919D-42FA-81C0-CDD71BB576F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24EA974D-E197-4C58-A0C0-EF9CEACD43F8} = {7E7B4989-6AF4-4CE4-BD3F-437DB8CFA2FD}
+		{06DA519C-919D-42FA-81C0-CDD71BB576F2} = {7693F640-E0D9-4542-953A-EEAF46C83962}
+		{47D33EEA-687D-49DB-9FBF-5C55E5EAE4BB} = {7693F640-E0D9-4542-953A-EEAF46C83962}
+	EndGlobalSection
+EndGlobal

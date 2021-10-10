@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\stu11Hanlder</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/myFirstHander.dll">
+      <publishTime>02/18/2014 16:02:08</publishTime>
+    </File>
+    <File Include="getRquestDemo/go.html">
+      <publishTime>02/18/2014 12:06:34</publishTime>
+    </File>
+    <File Include="getRquestDemo/P03GetOperator.ashx">
+      <publishTime>02/18/2014 11:42:57</publishTime>
+    </File>
+    <File Include="listtmp.html">
+      <publishTime>02/18/2014 14:52:20</publishTime>
+    </File>
+    <File Include="P01Index.ashx">
+      <publishTime>02/18/2014 09:33:15</publishTime>
+    </File>
+    <File Include="P02GetList.ashx">
+      <publishTime>02/18/2014 10:16:30</publishTime>
+    </File>
+    <File Include="P06GetListFromTemp.ashx">
+      <publishTime>02/18/2014 14:45:48</publishTime>
+    </File>
+    <File Include="postRequestDemo/go.html">
+      <publishTime>02/18/2014 14:32:42</publishTime>
+    </File>
+    <File Include="postRequestDemo/P04PostOperator.ashx">
+      <publishTime>02/18/2014 12:07:27</publishTime>
+    </File>
+    <File Include="tablelist.html">
+      <publishTime>02/18/2014 10:29:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/18/2014 16:02:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

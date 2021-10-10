@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function go() {
+            //从跟目录下开始查找文件
+            //window.location = '/getRquestDemo/P03GetOperator.ashx';
+
+            //从当前页面go.html同级文件夹查找文件
+            window.location = 'P03GetOperator.ashx';
+
+            //从当前页面go.html上一级文件夹查找文件
+            // window.location = '../P03GetOperator.ashx';
+        }
+    </script>
+</head>
+<body>
+    <a href="P03GetOperator.ashx">跳转</a>
+
+    <a href="javascript:void(0)" onclick="go()">跳转</a>
+
+    <form action="P03GetOperator.ashx" method="get">
+        <input type="text" name="id" value="500" />
+          <input type="text" name="name" value="ivan" />
+        <input type="submit" value="get请求提交表单" />
+    </form>
+</body>
+</html>

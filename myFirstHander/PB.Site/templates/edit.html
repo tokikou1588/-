@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="/css/css.css" rel="stylesheet" />
+</head>
+<body>
+    <form action="edit.ashx" method="post">
+        <input type="hidden" name="id" value="${id}" />
+        <table id="list">
+            <tr>
+                <th>联系人姓名</th>
+                <td>
+                    <input type="text" name="cname" value="${cname}" /></td>
+            </tr>
+            <tr>
+                <th>联系电话</th>
+                <td>
+                    <input type="text" name="cphone" value="${cphone}" /></td>
+            </tr>
+                <tr>
+                <th>所属组</th>
+                <td>
+                <select name="groupid">
+                    ${groups}
+                </select>    
+                </td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>
+                    <input type="submit" value="编辑" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--通过post表单提交参数值注意点：
+    1、当前控件一定要存在form表单中
+    2、当前控件一定要带有name属性
+    3、form表单的提交动手一定是由type="submit" 的按钮来触发
+    4、控件分为三类：1、input ， 2、select 3、textarea-->
+    <form action="P04PostOperator.ashx" method="post">
+        <input type="text" name="id" value="500" />
+        <input type="text" name="name" value="ivan" />
+        <textarea name="url"></textarea>
+        <select name="stype">
+            <option value="1">老板</option>
+            <option value="2">老板娘</option>
+        </select>
+        <input type="submit" value="post请求提交表单" />
+    </form>
+</body>
+</html>
