@@ -1,0 +1,86 @@
+﻿@model EMS11.Model.ModelView.ContentsView
+
+@{
+    ViewBag.Title = "编辑网站内容";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/kindeditor/lang/zh_CN.js"></script>
+<script src="~/kindeditor/kindeditor.js"></script>
+<script type="text/javascript">
+    $(function () {
+        var editor = KindEditor.create('textarea[name="cnt_content"]',  //将会查找当前页面上的textarer文本框，要求此文本框的name属性值必须为n_content
+                  {
+                      resizeType: 1,  //表示当前富文本编辑框可以拉伸和收缩
+                      uploadJson: '/kindeditor/upload_json.ashx', //通过一般处理程序将富文本编辑框插入的图片，视频等文件上传到kindeditor/attached 文件
+                      allowFileManager: true
+                  });
+    })
+</script>
+
+<h2>编辑网站内容</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+
+    <table class="list">
+
+        <tr>
+            <th>
+                @Html.LabelFor(model => model.cnt_title)
+            </th>
+            <td>
+                @Html.EditorFor(model => model.cnt_title)
+                @Html.ValidationMessageFor(model => model.cnt_title)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                @Html.LabelFor(model => model.category_id)
+            </th>
+            <td>
+                @Html.DropDownListFor(model => model.category_id, ViewBag.Clist as SelectList)
+                @Html.ValidationMessageFor(model => model.category_id)
+            </td>
+        </tr>
+         <tr>
+            <th>
+                @Html.LabelFor(model => model.cnt_linkurl)
+            </th>
+            <td>
+                @Html.TextBoxFor(model => model.cnt_linkurl)
+                @Html.ValidationMessageFor(model => model.cnt_linkurl)
+            </td>
+        </tr>
+        <tr>
+            <th>
+                @Html.LabelFor(model => model.cnt_content)
+            </th>
+            <td>
+                @Html.TextAreaFor(model => model.cnt_content, new { rows = "50", clos = "20", style = "width:650px;height:300px" })
+                @Html.ValidationMessageFor(model => model.cnt_content)
+            </td>
+        </tr>
+       
+        <tr>
+            <th></th>
+            <td>
+                <input type="submit" value="新建" />
+                @Html.ActionLink("返回列表", "Index")
+            </td>
+        </tr>
+        <tr>
+            <th></th>
+            <td>
+                @Html.ValidationSummary(true)
+            </td>
+        </tr>
+    </table>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

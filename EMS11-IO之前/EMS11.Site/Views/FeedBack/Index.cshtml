@@ -1,0 +1,113 @@
+﻿@model EMS11.Model.ModelView.feedbackView
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/jquery-1.8.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+<script type="text/javascript">
+    function resetfm() {
+        //将当前表单元素中的所有数据清空
+        document.getElementsByTagName("form")[0].reset();
+    }
+</script>
+
+<table width="1005" border="0" align="center" cellpadding="0" cellspacing="0" background="/images/main1_27.gif">
+    <tbody>
+        <tr>
+            <td height="780" valign="top">
+                <div class="main">
+                    <div class="leftm" id="l1">
+                        @{Html.RenderAction("CompanyPrd", "ParitlView");}
+                        @{Html.RenderAction("ContactPv", "ParitlView");}
+                    </div>
+
+                    <div class="right" id="right">
+
+                        <div id="jianjie">
+                            @using(Html.BeginForm()){
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td width="14%" height="25" class="t1">
+                                                <div align="right">尊敬的客户：</div>
+                                            </td>
+                                            <td width="86%" height="25" class="t1">如果您对我们的产品或服务有任何意见和建议请及时告诉我们，我们将尽快给您满意的答复。</td>
+                                        </tr>
+                                        <tr>
+                                            <td height="30" class="t1">
+                                                <div align="right"></div>
+                                            </td>
+                                            <td height="30">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td height="30" class="t1">
+                                                <div align="right">@Html.DisplayNameFor(c=>c.f_title)：</div>
+                                            </td>
+                                            <td height="30">
+                                                <label>                                                    
+                                                    @Html.TextBoxFor(c => c.f_title, new  { @class="input", size="30"})
+                                                    @Html.ValidationMessageFor(c=>c.f_title)
+                                                    <span class="STYLE6">*</span></label></td>
+                                        </tr>
+                                        <tr>
+                                            <td height="25" class="t1">
+                                                <div align="right">@Html.DisplayNameFor(c=>c.f_content)：</div>
+                                            </td>
+                                            <td height="25">
+                                                <label>                                                    
+                                                     @Html.TextAreaFor(c => c.f_content, new  { @class="input", rows="8"})
+                                                    @Html.ValidationMessageFor(c=>c.f_title)
+                                                </label>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="30" class="t1">
+                                                <div align="right">@Html.DisplayNameFor(c=>c.fuser_name)：</div>
+                                            </td>
+                                            <td height="30">                                                
+                                                    @Html.TextBoxFor(c => c.fuser_name, new  { @class="input"})
+                                                    @Html.ValidationMessageFor(c=>c.fuser_name)
+                                                <span class="STYLE6">*</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td height="30" class="t1">
+                                                <div align="right">@Html.DisplayNameFor(c=>c.fuser_tel)：</div>
+                                            </td>
+                                            <td height="30">
+                                                
+                                                    @Html.TextBoxFor(c => c.fuser_tel, new  { @class="input",size="30"})
+                                                    @Html.ValidationMessageFor(c=>c.fuser_tel)
+
+                                            </td>
+                                        </tr>                                        
+                                        <tr>
+                                            <td height="30">&nbsp;</td>
+                                            <td height="30">
+                                                <div align="center">
+                                                    <label>
+                                                        <input name="Submit" type="submit" class="input" value="确认">
+                                                        &nbsp;
+                                                    </label>
+                                                    <label>
+                                                        <input name="Submit2" type="button" class="input" value="取消" onclick="resetfm()">
+                                                    </label>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+

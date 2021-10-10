@@ -1,0 +1,46 @@
+﻿@model IEnumerable<EMS11.Model.ModelView.ContentsView>
+
+@{
+    ViewBag.Title = "内容管理";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>内容管理</h2>
+
+<p>
+    @Html.ActionLink("新建内容", "Create")
+</p>
+<table class="list">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.cnt_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cnt_title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_id)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cnt_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cnt_title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.c_title)
+            </td>
+            <td>
+                @Html.ActionLink("编辑", "Edit", new { id = item.cnt_id }) |         
+                @Html.ActionLink("删除", "Delete", new { id = item.cnt_id })
+            </td>
+        </tr>
+    }
+
+</table>

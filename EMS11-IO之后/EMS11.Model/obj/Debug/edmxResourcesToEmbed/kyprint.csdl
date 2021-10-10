@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kyprintModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="kyprintEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Category" EntityType="kyprintModel.Category" />
+    <EntitySet Name="Contents" EntityType="kyprintModel.Contents" />
+    <EntitySet Name="feedback" EntityType="kyprintModel.feedback" />
+    <EntitySet Name="Menus" EntityType="kyprintModel.Menus" />
+    <EntitySet Name="News" EntityType="kyprintModel.News" />
+    <EntitySet Name="Product" EntityType="kyprintModel.Product" />
+    <EntitySet Name="UserInfo" EntityType="kyprintModel.UserInfo" />
+    <AssociationSet Name="FK_Contents_Category" Association="kyprintModel.FK_Contents_Category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Contents" EntitySet="Contents" />
+    </AssociationSet>
+    <AssociationSet Name="FK_News_Category" Association="kyprintModel.FK_News_Category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="News" EntitySet="News" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Category" Association="kyprintModel.FK_Product_Category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Contents_UserInfo" Association="kyprintModel.FK_Contents_UserInfo">
+      <End Role="UserInfo" EntitySet="UserInfo" />
+      <End Role="Contents" EntitySet="Contents" />
+    </AssociationSet>
+    <AssociationSet Name="FK_News_UserInfo" Association="kyprintModel.FK_News_UserInfo">
+      <End Role="UserInfo" EntitySet="UserInfo" />
+      <End Role="News" EntitySet="News" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="c_id" />
+    </Key>
+    <Property Name="c_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="c_type" Type="Int32" Nullable="false" />
+    <Property Name="c_title" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="parent_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Contents" Relationship="kyprintModel.FK_Contents_Category" FromRole="Category" ToRole="Contents" />
+    <NavigationProperty Name="News" Relationship="kyprintModel.FK_News_Category" FromRole="Category" ToRole="News" />
+    <NavigationProperty Name="Product" Relationship="kyprintModel.FK_Product_Category" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Contents">
+    <Key>
+      <PropertyRef Name="cnt_id" />
+    </Key>
+    <Property Name="cnt_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="cnt_title" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="cnt_content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="cnt_linkurl" Type="String" MaxLength="400" Unicode="true" FixedLength="false" />
+    <Property Name="cnt_imgurl" Type="String" MaxLength="400" Unicode="true" FixedLength="false" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="cnt_is_lock" Type="Byte" Nullable="false" />
+    <Property Name="cnt_add_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cnt_exp1" Type="String" MaxLength="400" Unicode="true" FixedLength="false" />
+    <Property Name="cnt_exp2" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="kyprintModel.FK_Contents_Category" FromRole="Contents" ToRole="Category" />
+    <NavigationProperty Name="UserInfo" Relationship="kyprintModel.FK_Contents_UserInfo" FromRole="Contents" ToRole="UserInfo" />
+  </EntityType>
+  <EntityType Name="feedback">
+    <Key>
+      <PropertyRef Name="f_id" />
+    </Key>
+    <Property Name="f_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="f_title" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="f_content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="fuser_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="fuser_tel" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="fuser_qq" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="fuser_email" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="fadd_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="freply_content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="freply_time" Type="DateTime" Precision="3" />
+    <Property Name="is_lock" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Menus">
+    <Key>
+      <PropertyRef Name="m_id" />
+    </Key>
+    <Property Name="m_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="m_parent_mid" Type="Int32" Nullable="false" />
+    <Property Name="m_name" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="m_url" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="m_sortid" Type="Int32" Nullable="false" />
+    <Property Name="m_status" Type="Int32" Nullable="false" />
+    <Property Name="m_picname" Type="String" Nullable="false" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="m_level" Type="Int32" Nullable="false" />
+    <Property Name="m_remark" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="m_exp1" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="m_exp2" Type="Int32" />
+    <Property Name="m_add_time" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="n_id" />
+    </Key>
+    <Property Name="n_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="n_title" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="n_author" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+    <Property Name="n_form" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="n_content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="n_sort_id" Type="Int32" Nullable="false" />
+    <Property Name="n_click" Type="Int32" Nullable="false" />
+    <Property Name="n_is_lock" Type="Int32" Nullable="false" />
+    <Property Name="add_time" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Category" Relationship="kyprintModel.FK_News_Category" FromRole="News" ToRole="Category" />
+    <NavigationProperty Name="UserInfo" Relationship="kyprintModel.FK_News_UserInfo" FromRole="News" ToRole="UserInfo" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="p_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="p_photo_no" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="p_title" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="img_url" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+    <Property Name="p_content" Type="String" MaxLength="2000" Unicode="true" FixedLength="false" />
+    <Property Name="sort_id" Type="Int32" Nullable="false" />
+    <Property Name="click" Type="Int32" Nullable="false" />
+    <Property Name="add_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="is_lock" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="kyprintModel.FK_Product_Category" FromRole="Product" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="u_name" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="u_pwd" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="real_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="u_telephone" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="u_email" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="u_is_lock" Type="Int32" Nullable="false" />
+    <Property Name="u_add_time" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Contents" Relationship="kyprintModel.FK_Contents_UserInfo" FromRole="UserInfo" ToRole="Contents" />
+    <NavigationProperty Name="News" Relationship="kyprintModel.FK_News_UserInfo" FromRole="UserInfo" ToRole="News" />
+  </EntityType>
+  <Association Name="FK_Contents_Category">
+    <End Role="Category" Type="kyprintModel.Category" Multiplicity="1" />
+    <End Role="Contents" Type="kyprintModel.Contents" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="c_id" />
+      </Principal>
+      <Dependent Role="Contents">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_News_Category">
+    <End Role="Category" Type="kyprintModel.Category" Multiplicity="1" />
+    <End Role="News" Type="kyprintModel.News" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="c_id" />
+      </Principal>
+      <Dependent Role="News">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Category">
+    <End Role="Category" Type="kyprintModel.Category" Multiplicity="1" />
+    <End Role="Product" Type="kyprintModel.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="c_id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Contents_UserInfo">
+    <End Role="UserInfo" Type="kyprintModel.UserInfo" Multiplicity="1" />
+    <End Role="Contents" Type="kyprintModel.Contents" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserInfo">
+        <PropertyRef Name="user_id" />
+      </Principal>
+      <Dependent Role="Contents">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_News_UserInfo">
+    <End Role="UserInfo" Type="kyprintModel.UserInfo" Multiplicity="1" />
+    <End Role="News" Type="kyprintModel.News" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserInfo">
+        <PropertyRef Name="user_id" />
+      </Principal>
+      <Dependent Role="News">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

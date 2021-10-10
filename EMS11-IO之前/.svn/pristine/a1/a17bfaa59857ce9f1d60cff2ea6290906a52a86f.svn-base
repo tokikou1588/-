@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace EMS11.Site.Controllers
+{
+    public class NewsController : BasePlatController
+    {
+        //
+        // GET: /News/
+
+        /// <summary>
+        /// 负责呈现某个新闻的详细
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult Detils(int id)
+        {            
+           var model= base.newsBLL.WhereByCondition(c => c.n_id == id).FirstOrDefault();
+
+           return View(model);
+        }
+
+    }
+}

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<EMS11.Model.ModelView.feedbackView>
+
+@{
+    ViewBag.Title = "留言列表";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>留言列表</h2>
+
+<table class="list">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.f_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.f_title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fuser_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fuser_tel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fuser_qq)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fuser_email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fadd_time)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.f_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.f_title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fuser_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fuser_tel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fuser_qq)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fuser_email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fadd_time)
+            </td>
+            <td>
+              @Html.ActionLink("回复", "Freply", new { id = item.f_id }) |              
+              @Html.ActionLink("禁用", "Delete", new { id = item.f_id })
+            </td>
+        </tr>
+    }
+
+</table>

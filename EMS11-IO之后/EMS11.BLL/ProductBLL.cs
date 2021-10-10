@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EMS11.BLL
+{
+    using EMS11.IBLL;
+    using EMS11.Model;
+
+    public class ProductBLL : BaseBLL<Product>,IProductBLL
+    {
+        public ProductBLL(EMS11.IDal.IBaseDal<Product> dal)
+        {
+            base.dal = dal;
+        }
+    }
+}

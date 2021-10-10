@@ -1,0 +1,49 @@
+﻿@model IEnumerable<EMS11.Model.ModelView.CategoryView>
+
+@{
+    ViewBag.Title = "类别基础数据管理";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@using EMS11.Common
+
+<h2>类别基础数据管理</h2>
+
+
+<p>
+    @Html.ActionLink("创建类别", "Create")
+</p>
+<table class="list">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.c_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.c_type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.c_title)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.c_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.c_type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.c_title)
+            </td>
+            <td>
+                @Html.ActionLink("编辑", "Edit", new { id = item.c_id })
+            </td>
+        </tr>
+    }
+</table>
+
+<!--产生分页代码-->
+@Html.PageBarBulider("Admin", "Cate", "Index", 5, (int)ViewBag.totalcount)
