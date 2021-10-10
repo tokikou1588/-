@@ -1,0 +1,17 @@
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.dll.config
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.dll
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.pdb
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\EntityFramework.dll
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\EntityFramework.xml
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\obj\Debug\EMS11.Model.dll
+E:\传智播客\11期班\2014-3-24 MVC小项目第1天 框架搭建\源码\EMS11\EMS11.Model\obj\Debug\EMS11.Model.pdb
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.dll.config
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.dll
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\EMS11.Model.pdb
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\EntityFramework.dll
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\EntityFramework.xml
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\obj\Debug\EMS11.Model.csprojResolveAssemblyReference.cache
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\obj\Debug\EMS11.Model.dll
+D:\学习视频\C#\DotNet第11期2013.12.09-基础就业班 还没解压\12-NetMVC_张杨波_12天\2014-3-24 MVC小项\源码\EMS11\EMS11.Model\obj\Debug\EMS11.Model.pdb

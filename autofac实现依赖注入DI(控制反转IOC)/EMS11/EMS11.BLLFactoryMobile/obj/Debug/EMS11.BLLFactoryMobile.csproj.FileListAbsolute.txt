@@ -1,0 +1,4 @@
+E:\传智播客\11期班\2014-3-31 MVC小项目第6天 控制反转（IOC），依赖注入(DI)，使用autofac替换数据工厂和业务逻辑工厂层,根据条件动态构造lambda表达式，观察者模式\源码\EMS11\EMS11.BLLFactoryMobile\bin\Debug\EMS11.BLLFactoryMobile.dll
+E:\传智播客\11期班\2014-3-31 MVC小项目第6天 控制反转（IOC），依赖注入(DI)，使用autofac替换数据工厂和业务逻辑工厂层,根据条件动态构造lambda表达式，观察者模式\源码\EMS11\EMS11.BLLFactoryMobile\bin\Debug\EMS11.BLLFactoryMobile.pdb
+E:\传智播客\11期班\2014-3-31 MVC小项目第6天 控制反转（IOC），依赖注入(DI)，使用autofac替换数据工厂和业务逻辑工厂层,根据条件动态构造lambda表达式，观察者模式\源码\EMS11\EMS11.BLLFactoryMobile\obj\Debug\EMS11.BLLFactoryMobile.dll
+E:\传智播客\11期班\2014-3-31 MVC小项目第6天 控制反转（IOC），依赖注入(DI)，使用autofac替换数据工厂和业务逻辑工厂层,根据条件动态构造lambda表达式，观察者模式\源码\EMS11\EMS11.BLLFactoryMobile\obj\Debug\EMS11.BLLFactoryMobile.pdb
